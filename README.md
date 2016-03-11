@@ -1,0 +1,1 @@
+Projecto proposto no âmbito da disciplina de Programação Orientada a Objectos da Licenciatura em Ciências da Computação, tem como base a construção de uma rede social de nome CarasBook@UM.

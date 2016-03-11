@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=cNome\ cEmail\ cDescricao\ cMorada\ cSector\ cPassword
+comment0.target=Empresa(java.lang.String,\ java.lang.String,\ java.lang.String,\ Localizacao,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Construtor\ por\ partes\r\n
+comment1.params=
+comment1.target=Empresa()
+comment1.text=\r\n\ Construtor\ por\ omissao\r\n
+comment2.params=e
+comment2.target=Empresa(Empresa)
+comment2.text=\r\n\ Construtor\ para\ clone\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSector()
+comment4.params=sSector
+comment4.target=void\ setSector(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=Empresa\ clone()
+comment7.params=ob
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8

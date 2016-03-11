@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=strU\ mp\ eShow
+comment0.target=MapaGUI(java.lang.String,\ Mapa,\ boolean)
+comment1.params=e
+comment1.target=void\ mouseClicked(java.awt.event.MouseEvent)
+numComments=2

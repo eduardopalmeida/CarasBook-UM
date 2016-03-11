@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Adjacente()
+comment0.text=\r\n\ Construtor\ por\ omissao\r\n
+comment1.params=ad
+comment1.target=Adjacente(Adjacente)
+comment1.text=\r\n\ Construtor\ para\ clone\r\n
+comment2.params=indice\ dist
+comment2.target=Adjacente(int,\ double)
+comment2.text=\r\n\ Construtor\ por\ partes\r\n
+comment3.params=
+comment3.target=int\ getIndice()
+comment4.params=
+comment4.target=double\ getDist()
+comment5.params=indice
+comment5.target=void\ setIndice(int)
+comment6.params=dist
+comment6.target=void\ setDist(double)
+comment7.params=
+comment7.target=Adjacente\ clone()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=ad
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=10
